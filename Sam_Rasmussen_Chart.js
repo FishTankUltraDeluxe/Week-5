@@ -7,7 +7,7 @@ $('#clickToStart').on('click', function() {
 
 	$(function animateStart () {
 
-		$('#clickToStart').text('Click the bar to fight status quo');
+		$('#clickToStart').text('Click the bar to boost female representation in games');
 
 	});
 
